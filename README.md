@@ -2,6 +2,7 @@
 
 This is a special repo for Bitcoin Cotonou Socratic Seminar Reports
 
+- [Socratic Seminar 12](./Socratic-Seminar-12)
 - [Socratic Seminar 11](./Socratic-Seminar-11)
 - [Socratic Seminar 10](./Socratic-Seminar-10)
 - [Socratic Seminar 9](./Socratic-Seminar-9)
